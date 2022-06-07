@@ -37,8 +37,8 @@ public class Biblioteca  implements Ibiblioteca {
        canciones.add(new Cancion(6, "Burn The Witch", "2015-12-17", "3:10", "Rock alternativo", "./Imagenes/Rh.jpg", "Banda Británica"));
        canciones.add(new Cancion(7, "Chop Suey", "1998-07-22", "4:30", "Rock", "./Imagenes/SOAD.jfif", "Banda de rock USA"));
        canciones.add(new Cancion(8, "Count Contessa", "2010-03-22", "4:00", "Rap", "./Imagenes/AzBanks.jpg", "Rapera USA"));
-       canciones.add(new Cancion(9, "Du Hast", "1994-11-27", "4:20", "Rock", "./Imagenes/Rammstein.jpg", "Banda de rock Alemania"));
-       canciones.add(new Cancion(10, "Bad", "1993-08-19", "3:50", "Pop", "./Imagenes/MJ.jpg", "Rey del pop"));
+       /*canciones.add(new Cancion(9, "Du Hast", "1994-11-27", "4:20", "Rock", "./Imagenes/Rammstein.jpg", "Banda de rock Alemania"));
+       canciones.add(new Cancion(10, "Bad", "1993-08-19", "3:50", "Pop", "./Imagenes/MJ.jpg", "Rey del pop"));*/
 
 
     }
